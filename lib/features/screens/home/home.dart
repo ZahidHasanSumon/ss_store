@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
+import 'package:ss_store/features/screens/all_products/all_products.dart';
 import 'package:ss_store/features/screens/home/widgets/home_appbar.dart';
 import 'package:ss_store/features/screens/home/widgets/home_category.dart';
 import 'package:ss_store/features/screens/home/widgets/promo_slider.dart';
@@ -64,10 +66,17 @@ class HomeScreen extends StatelessWidget {
                       SImages.banner3
                     ],
                   ),
+
                   ///Heading
-                  SSectionHeading(title: 'Popular Products', onPressed: (){},),
+                  SSectionHeading(
+                    title: 'Popular Products',
+                    onPressed: () => Get.to(() => const AllProducts()),
+                  ),
                   const SizedBox(height: TSizes.spaceBtwItems),
-                  SGridLayout(itemCount: 10, itemBuilder: (_, index) => const SProductCardVertical(),),
+                  SGridLayout(
+                    itemCount: 10,
+                    itemBuilder: (_, index) => const SProductCardVertical(),
+                  ),
                   //  SProductCardVertical(),
                 ],
               ),
@@ -78,5 +87,3 @@ class HomeScreen extends StatelessWidget {
     );
   }
 }
-
-

@@ -20,7 +20,7 @@ class SBrandCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GestureDetector(
-      onTap: () {},
+      onTap: onTap ,
       child: SRoundedContainer(
         // padding: const EdgeInsets.all(TSizes.sm),
         showBorder: false,
