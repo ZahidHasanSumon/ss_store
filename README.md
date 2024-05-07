@@ -10,16 +10,16 @@
 
 <b>Some ScreenShots(Actual App Even Looks Better 😃):</b></br><br>
 <kbd>
-<img src="https://github.com/ZahidHasanSumon/ss_store/blob/main/screenshots/sc1.jpg" width=30% height=30%/>
-<img src="https://github.com/ZahidHasanSumon/ss_store/blob/main/screenshots/sc2.jpg" width=30% height=30%/>
-<img src="https://github.com/ZahidHasanSumon/ss_store/blob/main/screenshots/sc3.jpg" width=30% height=30%/>
-<img src="https://github.com/ZahidHasanSumon/ss_store/blob/main/screenshots/sc4.jpg" width=30% height=30%/>
-<img src="https://github.com/ZahidHasanSumon/ss_store/blob/main/screenshots/sc5.jpg" width=30% height=30%/>
-<img src="https://github.com/ZahidHasanSumon/ss_store/blob/main/screenshots/sc6.jpg" width=30% height=30%/>
-<img src="https://github.com/ZahidHasanSumon/ss_store/blob/main/screenshots/sc7.jpg" width=30% height=30%/>
-<img src="https://github.com/ZahidHasanSumon/ss_store/blob/main/screenshots/sc8.jpg" width=30% height=30%/>
-<img src="https://github.com/ZahidHasanSumon/ss_store/blob/main/screenshots/sc9.jpg" width=30% height=30%/>
-<img src="https://github.com/ZahidHasanSumon/ss_store/blob/main/screenshots/sc10.jpg" width=30% height=30%/>
+<img src="https://github.com/ZahidHasanSumon/ss_store/blob/main/ss_store/sc1.jpg" width=30% height=30%/>
+<img src="https://github.com/ZahidHasanSumon/ss_store/blob/main/ss_store/sc2.jpg" width=30% height=30%/>
+<img src="https://github.com/ZahidHasanSumon/ss_store/blob/main/ss_store/sc3.jpg" width=30% height=30%/>
+<img src="https://github.com/ZahidHasanSumon/ss_store/blob/main/ss_store/sc4.jpg" width=30% height=30%/>
+<img src="https://github.com/ZahidHasanSumon/ss_store/blob/main/ss_store/sc5.jpg" width=30% height=30%/>
+<img src="https://github.com/ZahidHasanSumon/ss_store/blob/main/ss_store/sc6.jpg" width=30% height=30%/>
+<img src="https://github.com/ZahidHasanSumon/ss_store/blob/main/ss_store/sc7.jpg" width=30% height=30%/>
+<img src="https://github.com/ZahidHasanSumon/ss_store/blob/main/ss_store/sc8.jpg" width=30% height=30%/>
+<img src="https://github.com/ZahidHasanSumon/ss_store/blob/main/ss_store/sc9.jpg" width=30% height=30%/>
+<img src="https://github.com/ZahidHasanSumon/ss_store/blob/main/ss_store/sc10.jpg" width=30% height=30%/>
 </kbd>
 <br>
 <br>
